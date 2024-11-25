@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm RerenzDF</h1>
 
-<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
-
 <br/><br/>
 <img width="500" src="https://i.ibb.co.com/VJCj07R/Screenshot-2024-11-26-001213.png" align="right" />
 <br>
