@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Realdefa Alhadid R</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
 
 <br/><br/>
-<img width="337" src="https://i.ibb.co.com/k8FFbPK/Screenshot-2024-11-25-234844.pngg" align="right" />
+<img width="500" src="https://i.ibb.co.com/VJCj07R/Screenshot-2024-11-26-001213.png" align="right" />
 <br>
 
 - **Name:** Realdefa Alhadid R  
@@ -27,12 +26,10 @@
     <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="blender" width="40" height="40"/>
     <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects.svg" alt="aftereffect" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+    <img src="https://i.ibb.co.com/L8Qws4N/icons8-unreal-engine-50.png" alt="unreal" width="40" height="40"/>
 </p>
 
-<br>
-<br>
-<br>
+<br><br><br>
 
 <p align="center">
   <a href="https://yourwebsite.com" target="_blank">
@@ -48,4 +45,4 @@
     <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
-<img src="https://i.ibb.co.com/gPN2GYg/Screenshot-797.png" width="100%" alt="profile" border="0"/>
+<img src="https://i.ibb.co.com/gPN2GYg/Screenshot-797.png" width="100%" align="center"/>
