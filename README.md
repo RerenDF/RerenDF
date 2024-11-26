@@ -4,7 +4,7 @@
 
 <img width="400" src="https://i.ibb.co.com/VJCj07R/Screenshot-2024-11-26-001213.png" align="right" />
 
-- **Name:** Realdefa Alhadid R  
+- **Name:** RD.A.R  
 - **Location:** South Sumatra, Indonesia  
 - **Field of Study:** Information Management  
 - **Skills:**  
