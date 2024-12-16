@@ -8,18 +8,15 @@
 - **Location:** South Sumatra, Indonesia  
 - **Field of Study:** Information Management  
 - **Skills:**  
-  - **Programming:** HTML, CSS, JavaScript, PHP  
+  - **Programming:** 
   - **Design & Animation:** Blender, Adobe After Effects  
 - **Languages Spoken:** Indonesian, English, Japanese  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Development" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="Blender" width="40" height="40"/>
     <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects.svg" alt="Adobe After Effects" width="40" height="40"/>
