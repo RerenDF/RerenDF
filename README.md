@@ -6,9 +6,9 @@
 
 - **Name:** RD.A.R  
 - **Location:** South Sumatra, Indonesia  
-- **Field of Study:** Information Management  
+- **Field of Study:** Informatics Management  
 - **Skills:**  
-  - **Programming:** 
+  - **Programming** 
   - **Design & Animation:** Blender, Adobe After Effects  
 - **Languages Spoken:** Indonesian, English, Japanese  
 
